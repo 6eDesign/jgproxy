@@ -1,0 +1,19 @@
+{
+  "name": "jgProxy",
+  "version": "0.0.0",
+  "description": "Simple API proxy using requestify or something.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/6eDesign/jgProxy"
+  },
+  "author": "Jonathan Greenemeier <Jon@6eDesign.net> (https://github.com/6edesign)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6eDesign/jgProxy/issues"
+  },
+  "homepage": "https://github.com/6eDesign/jgProxy"
+}
